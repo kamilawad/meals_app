@@ -19,8 +19,8 @@ class DietModel {
     required this.viewIsSelected
   });
 
-  static List < DietModel > getDiets() {
-    List < DietModel > diets = [];
+  static List <DietModel> getDiets() {
+    List <DietModel> diets = [];
 
     diets.add(
       DietModel(
